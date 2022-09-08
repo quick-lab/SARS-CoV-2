@@ -1,9 +1,9 @@
 
-#[5.0.0](https://github.com/quick-lab/COV19)(01-05-2021)
+#[5.0.0](https://github.com/quick-lab/nCOV19)(01-05-2021)
 
 A verified 400bp scheme for designed for prevalent subvariants<sup>*1</sup> at time of creation. 
 
-#[5.1.0](https://github.com/quick-lab/COV19)(08-09-2022)
+#[5.1.0](https://github.com/quick-lab/nCOV19)(08-09-2022)
 
 An un-verified regenerated verion of v5.0 to include subvariants; BA.2.3, BA.4.1, BA.5, BA.5.1, BA.5.2, BA.5.2.1, BA.5.6
 
