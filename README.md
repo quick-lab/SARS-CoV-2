@@ -1,4 +1,4 @@
-#1.0.0 (01-05-2021)
+#5.0 (01-05-2021)
 
 A 400bp scheme for designed for prevalent subvariants<sup>*1</sup> at time of creation. 
 
