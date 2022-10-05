@@ -1,5 +1,3 @@
-# UPDATE: The correct v.5.0 has been uploaded 
-
 #[5.0.0](https://github.com/quick-lab/nCOV19)(01-05-2021)
 
 A verified 400bp scheme for designed for prevalent subvariants<sup>*1</sup> at time of creation. 
