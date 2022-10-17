@@ -35,7 +35,7 @@ An updated version of v5.1 to include BQ.1
 
 ## Versioning
 
-v.<x>.<y>.<z>
+v.(x).(y).(z)
 
 ```x```:  Major Version. (New scheme)
 
