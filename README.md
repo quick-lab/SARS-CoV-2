@@ -23,13 +23,25 @@ An updated version of v5.1 to include BQ.1
 
 
 ## File Format
-```MN908947.3.fasta```: The referance genome which is used in the bed file indexing
+```MN908947.3.fasta```: The reference genome which is used in the bed file indexing
 
-```nmask.fasta```:  The nmask with positions of vairation masked via an N
+```nmask.fasta```:  The nmask with positions of variation masked via an N
 
 ```nCOV19_400.primer.bed```:  The bedfile that contains the primers of the current version
 
 ```add.primer.bed```: New primers added in a subversion increase (v5.1.0 to v5.2.0)
 
 ```total_add.primer.bed```: New primers needed to create a version from the base (v5.0.0)
+
+## Versioning
+
+v.<x>.<y>.<z>
+
+```x```:  Major Version. (New scheme)
+
+```y```:  Minor Version. Used to include new alt primers to account for new lineages (New primers added)
+
+```z```:  Misc version. Used to include changes to file format or change to primer rebalancing volumes (No primer changes)
+
+
 
