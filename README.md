@@ -1,16 +1,16 @@
 # Versions
-##v5.0.0
+## v5.0.0
 (01-05-2021)
 
 A verified 400bp scheme for designed for prevalent subvariants<sup>*1</sup> at time of creation. 
 
-##v5.1.0
+## v5.1.0
 
 (02-10-2022)
 
 An updated version of v5.0 to include variants; BA.2.3, BA.4.1, BA.5, BA.5.1, BA.5.2, BA.5.2.1, BA.5.6
 
-##v5.2.0
+## v5.2.0
 
 (17-10-2022)
 
