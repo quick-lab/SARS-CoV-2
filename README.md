@@ -19,7 +19,7 @@ An updated version of v5.1 to include BQ.1
 
 ```nmask.fasta```:  The nmask with positions of vairation masked via an N
 
-```nCOV19_400.primer.bed```:  The bedfile that contains the primers
+```nCOV19_400.primer.bed```:  The bedfile that contains the primers of the current version
 
 ```add.primer.bed```: New primers added in a subversion increase (v5.1.0 to v5.2.0)
 
