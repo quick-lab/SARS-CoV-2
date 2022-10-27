@@ -1,6 +1,6 @@
 # Versions
 
-Schemes have now been separated via length, for ease of use. So, the classic 400bp v5.0 scheme is now designated as v5.0_400 (See Versioning). The major and minor version refer the mask used in the scheme generation, so for example, all v5.2 schemes will cover the same variants regardless of amplicon length.
+Schemes have now been separated via length, for ease of use. So, the classic 400bp v5.0 scheme is now designated as v5.0_400 (See Versioning) and is found in the "400" directory. The major and minor version refer the mask used in the scheme generation, so for example, all v5.2 schemes will cover the same variants regardless of amplicon length.
 
 ## v5.0.0
 
