@@ -35,13 +35,15 @@ An updated version of v5.1 to include BQ.1
 
 ## Versioning
 
-v.(x).(y).(z)
+v.(w).(x).(y)_(z)
 
-```x```:  Major Version. (New scheme)
+```w```:  Major Version. (New scheme)
 
-```y```:  Minor Version. Used to include new alt primers to account for new lineages (New primers added)
+```x```:  Minor Version. Used to include new alt primers to account for new lineages (New primers added)
 
-```z```:  Misc version. Used to include changes to file format or change to primer rebalancing volumes (No primer changes)
+```y```:  Misc version. Used to include changes to file format or change to primer rebalancing volumes (No primer changes)
+
+```z```:  The max length of the scheme in basepairs
 
 
 
