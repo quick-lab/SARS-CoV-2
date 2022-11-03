@@ -34,6 +34,26 @@ An updated mask version of v5.1 to include BQ.1
 
 `total_add.primer.bed`: New primers needed to create a version from the base (v5.0.0)
 
+`rebalance`: How to make up the pool from 100uM primer stocks.
+
+### Rebalance file
+
+delta_rebalance is how to create a minor version from the base version (create v5.2.0 from v5.0.0)
+
+Columns are in order;
+
+`primer_name`: The name of each primer
+
+`pool`: The pool each primer belongs to
+
+`amplicon`: The amplicon each primer contributes to
+
+`primer_number`: This allows multiple primers to contribute to the same amplicon. The base primer is numbered 0, with each new alt sequentially increasing
+
+`weight`: The increase ratio between primer concentration within its pool, and its amplicon's coverage. When pooling than can stand in for uL of each primer.
+
+`uL_to_make_100uL`: If X amount of each primer is added to its corresponding pool, both pools will will come to 100uL
+
 ## Versioning
 
 v.(w).(x).(y)\_(z)
