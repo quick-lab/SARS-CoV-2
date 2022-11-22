@@ -56,7 +56,7 @@ Columns are in order;
 
 ## Versioning
 
-v.(w).(x).(y)\_(z)
+v(w).(x).(y)\_(z)
 
 `w`: Major Version. (New scheme)
 
