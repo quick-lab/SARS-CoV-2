@@ -34,7 +34,7 @@ An updated mask version of v5.1 to include BQ.1
 
 `total_add.primer.bed`: New primers needed to create a version from the base (v5.0.0)
 
-`rebalance`: How to make up the pool from 100uM primer stocks.
+`pooling`: How to make up the pool from 100uM primer stocks.
 
 ### pooling file
 
