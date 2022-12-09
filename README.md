@@ -22,6 +22,12 @@ An updated version of v5.0 to include variants; BA.2.3, BA.4.1, BA.5, BA.5.1, BA
 
 An updated mask version of v5.1 to include BQ.1
 
+## v5.3.2
+
+(09-12-2022)
+
+A balanced, replacement version of the v5.2 scheme, including primers replacements to fix a gap region around Amplicon 7. This includes all variants covered in previous v5 schemes. Also includes pooling information for generating balanced Amplicon coverage.
+
 ## File Format
 
 `MN908947.3.fasta`: The reference genome used in the bed file indexing
@@ -38,7 +44,7 @@ An updated mask version of v5.1 to include BQ.1
 
 ### pooling file
 
-This is how to create a pool from primers stocks 
+This is how to create a pool from primers stocks
 
 Columns are in order;
 
