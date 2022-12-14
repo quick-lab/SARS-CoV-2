@@ -4,4 +4,4 @@ This is a minimal primer scheme, which uses primer replacement rather than spike
 
 
 
-Thanks to John Tyson at the BCCDC. 
+Thanks go to BC Centre for Disease Control and Public Health Laboratory. 
