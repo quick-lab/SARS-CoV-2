@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This repo has been depreciated and is no longer maintained! Please use [primerschemes](https://github.com/quick-lab/primerschemes) for the latest schemes. 
+> This repo has been deprecated and is no longer maintained! Please use [primerschemes](https://github.com/quick-lab/primerschemes) for the latest schemes. 
 
 # Versions
 
