@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repo has been depreciated and is no longer maintained! Please use [primerschemes](https://github.com/quick-lab/primerschemes) for the latest schemes. 
+
 # Versions
 
 Schemes have now been separated via length, for ease of use. So, the classic 400bp v5.0.0 scheme is now designated as v5.0.0_400 (See Versioning) and is found in the "400s" directory. The major and minor version refer the mask used in the scheme generation, so for example, all v5.2.0 schemes will cover the same variants regardless of Amplicon length.
